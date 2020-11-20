@@ -18,6 +18,7 @@ Step-3: Scroll down 200 (or n) times on the page so that we will reach the end
 
 
 View the Python-selenium code.py file in this repository for the python code.
+[https://github.com/karthikkumar001/Web-Scraping-infinite-scroll-websites-with-Python-Selenium/blob/main/Python-selenium%20code.py]
 This code was formed and tested on google reviews sites.
 
 Challenges overcome by the code:

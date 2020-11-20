@@ -1,5 +1,3 @@
-*******Needs to be updated with a proper description***********
-
 # Web-Scraping-infinite-scroll-websites-with-Python-Selenium
 Providing a completely automated web scraping solution for websites having infinite scroll (i.e.) new items appear as user scrolls down instead of page numbers
 

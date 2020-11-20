@@ -14,11 +14,13 @@ Step-2: Initialize selenium driver to connect to the chrome window opened in ste
 Step-3: Scroll down 200 (or n) times on the page so that we will reach the end
     #we need to do this so that we can collect all reviews in one go
     #a wait time of 1 sec is implemented for fair-usage - this will mimic a manual user and will not put load on the website
-    #we find the id of the '<body>' tag and send PAGE DOWN key requests to scroll
+    #we find the id of the \<body>\ tag and send PAGE DOWN key requests to scroll
 
 
 View the Python-selenium code.py file in this repository for the python code.
+
 [https://github.com/karthikkumar001/Web-Scraping-infinite-scroll-websites-with-Python-Selenium/blob/main/Python-selenium%20code.py]
+
 This code was formed and tested on google reviews sites.
 
 Challenges overcome by the code:

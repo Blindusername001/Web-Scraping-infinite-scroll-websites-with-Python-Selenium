@@ -75,10 +75,12 @@ For clicking on any element, depending on the webpage and trials, one of the fol
 
 Depending on your needs, you can save the output either as an excel file or a csv file. 
 In this case, I used csvwriter module in python to save as a csv file.
+If multiple sites were scraped - for example, in my code, I scraped reviews from all tripadvisor hotels in Cardiff. To union all the data for different sites before writing to csv, the ziplongest command in zip module of python can be used.
 
 ![screenshot](https://github.com/karthikkumar001/Web-Scraping-infinite-scroll-websites-with-Python-Selenium/blob/main/Images/step5.png)
         
         
-
+The entire code can be viewed in [https://github.com/karthikkumar001/Web-Scraping-infinite-scroll-websites-with-Python-Selenium/tree/main/Selenium%20codes].
+There are two selenium codes - one for google reviews and the other for tripadvisor website.
 
 

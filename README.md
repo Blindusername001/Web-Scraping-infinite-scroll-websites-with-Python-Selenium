@@ -26,12 +26,13 @@ Step-1: Open chrome in debug mode on port 9222; We use subprocess module in pyth
         So we open chrome in debug mode and then capture the opened session with Selenium and then run our code on the opened browser
 
 
-
+![screenshot](https://github.com/karthikkumar001/Web-Scraping-infinite-scroll-websites-with-Python-Selenium/blob/main/Images/step1.png)
 
 
 
 Step-2: Initialize selenium driver to connect to the chrome window opened in step 1
 
+![screenshot](https://github.com/karthikkumar001/Web-Scraping-infinite-scroll-websites-with-Python-Selenium/blob/main/Images/step2.png)
 
 
 Step-3: Scroll down 200 (or n) times on the page so that we will reach the end
@@ -39,7 +40,8 @@ Step-3: Scroll down 200 (or n) times on the page so that we will reach the end
     #a wait time of 1 sec is implemented for fair-usage - this will mimic a manual user and will not put load on the website
     #we find the id of the \<body>\ tag and send PAGE DOWN key requests to scroll
 
+![screenshot](https://github.com/karthikkumar001/Web-Scraping-infinite-scroll-websites-with-Python-Selenium/blob/main/Images/step3.png)
 
 Step-4: find and click on the Read More buttons using selenium methods
 
-
+![screenshot](https://github.com/karthikkumar001/Web-Scraping-infinite-scroll-websites-with-Python-Selenium/blob/main/Images/step4.png)

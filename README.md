@@ -76,7 +76,7 @@ For clicking on any element, depending on the webpage and trials, one of the fol
 Depending on your needs, you can save the output either as an excel file or a csv file. 
 In this case, I used csvwriter module in python to save as a csv file.
 
-
+![screenshot](https://github.com/karthikkumar001/Web-Scraping-infinite-scroll-websites-with-Python-Selenium/blob/main/Images/step5.png)
         
         
 

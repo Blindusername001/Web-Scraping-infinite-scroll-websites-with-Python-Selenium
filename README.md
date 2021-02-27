@@ -83,4 +83,4 @@ If multiple sites were scraped - for example, in my code, I scraped reviews from
 The entire code can be viewed in [https://github.com/karthikkumar001/Web-Scraping-infinite-scroll-websites-with-Python-Selenium/tree/main/Selenium%20codes].
 There are two selenium codes - one for google reviews and the other for tripadvisor website.
 
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MPkvQVeE5Go/0.jpg)](https://www.youtube.com/watch?v=MPkvQVeE5Go)
